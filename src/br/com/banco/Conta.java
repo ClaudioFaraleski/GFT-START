@@ -1,6 +1,6 @@
 package br.com.banco;
 
-public class Conta {
+public abstract class Conta  {
 
     private Integer numero;
     private String titular;
@@ -55,8 +55,6 @@ public class Conta {
 
 
     }
-
-
 
 
 }
